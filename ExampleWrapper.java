@@ -5,7 +5,7 @@ public class ExampleWrapper{
 		Integer i2=Integer.valueOf("110",2);
 		Double d1=Double.valueOf("34.55");
 		int a=Integer.parseInt("22");
-		double d=Double.parseDouble("33.55");
+		double d=Double.parseDouble("344.55");
 		int c=i1.intValue();
 		int k=i2.intValue();
 		System.out.println(c + k);//129
