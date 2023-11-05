@@ -7,7 +7,7 @@ public class ExceptionZero{
 		}
 		catch(ArithmeticException e)
 		{
-			System.out.println("Number cant be divided by zero");
+			System.out.println("Number can't be divided by zero");
 		}
 	}
 }
